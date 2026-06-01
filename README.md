@@ -123,6 +123,3 @@ npm run dev
 - Cancelling an order restores stock
 - Order total is calculated automatically by the backend
 
-## License
-
-MIT
