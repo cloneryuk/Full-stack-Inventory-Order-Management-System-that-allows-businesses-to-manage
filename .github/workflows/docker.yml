@@ -27,3 +27,5 @@ jobs:
           context: ./backend
           push: true
           tags: ${{ secrets.DOCKER_USERNAME }}/inventory-backend:latest
+
+# Trigger workflow
